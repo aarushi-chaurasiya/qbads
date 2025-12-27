@@ -1,4 +1,4 @@
-# QBADS — Quantum–Blockchain Anomaly Detection System
+<img width="1493" height="448" alt="Screenshot 2025-12-27 060844" src="https://github.com/user-attachments/assets/7469f913-0a9a-43dd-b00d-247e23f9dfe5" /># QBADS — Quantum–Blockchain Anomaly Detection System
 
 QBADS is a **hybrid research and engineering prototype** that integrates **Quantum Machine Learning (QML)** with **blockchain-based auditability** to detect anomalous financial transactions in a transparent, tamper-resistant manner.
 
@@ -155,22 +155,21 @@ This project is released for **research and educational purposes only**.
 
 
 # Frontend Output Screenshots
-`<img width="1888" height="813" alt="Screenshot 2025-12-27 061148" src="https://github.com/user-attachments/assets/7a9586bf-e6a9-4ed2-91d8-c6d3334cdb87" />
-<img width="1542" height="782" alt="Screenshot 2025-12-27 061205" src="https://github.com/user-attachments/assets/8e091a7a-5d4b-4f06-950d-58121e70ff38" />
-<img width="1879" height="791" alt="Screenshot 2025-12-27 061253" src="https://github.com/user-attachments/assets/24848b79-1bda-4a30-8466-884f38278d22" />
-<img width="1565" height="806" alt="Screenshot 2025-12-27 061329" src="https://github.com/user-attachments/assets/0167b6e2-3294-4baf-9818-fe73ebb4dd85" />
-<img width="1889" height="814" alt="Screenshot 2025-12-27 061347" src="https://github.com/user-attachments/assets/cd677594-cef8-44fe-b418-a91dfe3f0130" />
-<img width="1551" height="795" alt="Screenshot 2025-12-27 061405" src="https://github.com/user-attachments/assets/6a3d76e3-0141-4bee-bc9d-36163e5cd20e" />
-<img width="1885" height="811" alt="Screenshot 2025-12-27 060727" src="https://github.com/user-attachments/assets/ad7b39fb-8323-48b3-8f21-4d0488007d12" />
-<img width="1565" height="804" alt="Screenshot 2025-12-27 060826" src="https://github.com/user-attachments/assets/19d4501c-6d45-4607-becc-edcd0ab069bd" />
-<img width="1493" height="448" alt="Screenshot 2025-12-27 060844" src="https://github.com/user-attachments/assets/e027194e-85a0-422b-bcb0-ebac93be1402" />
-<img width="1893" height="824" alt="Screenshot 2025-12-27 060905" src="https://github.com/user-attachments/assets/92afd774-b10a-405e-bc70-62d4e3c210ff" />
-<img width="1896" height="823" alt="Screenshot 2025-12-27 060931" src="https://github.com/user-attachments/assets/c7782201-44fd-4ea1-9c73-6d2fdce06cfe" />
-<img width="1895" height="808" alt="Screenshot 2025-12-27 060959" src="https://github.com/user-attachments/assets/4765c82f-c319-40b7-8206-6098ba2af1dd" />
-<img width="1565" height="796" alt="Screenshot 2025-12-27 061027" src="https://github.com/user-attachments/assets/71b95b38-2aed-4704-817a-6192484dc4aa" />
-<img width="1890" height="811" alt="Screenshot 2025-12-27 061100" src="https://github.com/user-attachments/assets/1e689e1b-60c5-45fa-9a99-f62c45974d57" />
-<img width="1545" height="786" alt="Screenshot 2025-12-27 061122" src="https://github.com/user-attachments/assets/393f25ba-e62c-4de1-ae59-6908cf8754f3" />
 
+<img width="1885" height="811" alt="Screenshot 2025-12-27 060727" src="https://github.com/user-attachments/assets/e3aef841-4ac7-492d-81b8-0d6309cde086" />
+<img width="1565" height="804" alt="Screenshot 2025-12-27 060826" src="https://github.com/user-attachments/assets/15d3af24-d8f1-4ccb-a108-9e0d8d2fef04" />
+<img width="1493" height="448" alt="Screenshot 2025-12-27 060844" src="https://github.com/user-attachments/assets/71aaee6c-c807-417d-96cb-bdcf0b9672f7" />
+<img width="1896" height="823" alt="Screenshot 2025-12-27 060931" src="https://github.com/user-attachments/assets/9b2fcf5b-bd41-4f21-86ab-04da4521b7e5" />
+<img width="1895" height="808" alt="Screenshot 2025-12-27 060959" src="https://github.com/user-attachments/assets/36741526-8560-49fd-8b82-1c046b3820c6" />
+<img width="1565" height="796" alt="Screenshot 2025-12-27 061027" src="https://github.com/user-attachments/assets/5bc0a2ff-ac21-43de-9392-46acb3c307ba" />
+<img width="1890" height="811" alt="Screenshot 2025-12-27 061100" src="https://github.com/user-attachments/assets/e3f139e7-d6f8-4b7f-951e-7d15423dffc9" />
+<img width="1545" height="786" alt="Screenshot 2025-12-27 061122" src="https://github.com/user-attachments/assets/e86ae529-83f9-497d-9fa9-6231f87f1897" />
+<img width="1888" height="813" alt="Screenshot 2025-12-27 061148" src="https://github.com/user-attachments/assets/2d0a1cf8-c388-4793-9191-75d75c73645f" />
+<img width="1542" height="782" alt="Screenshot 2025-12-27 061205" src="https://github.com/user-attachments/assets/51554f14-edac-4485-8be1-ace7a341370e" />
+<img width="1879" height="791" alt="Screenshot 2025-12-27 061253" src="https://github.com/user-attachments/assets/75f15a37-de04-458f-9d1d-f107f81c8c9a" />
+<img width="1565" height="806" alt="Screenshot 2025-12-27 061329" src="https://github.com/user-attachments/assets/1538c8de-9c3a-47f2-b248-20f53eec1a7f" />
+<img width="1889" height="814" alt="Screenshot 2025-12-27 061347" src="https://github.com/user-attachments/assets/0ed924fc-4b5c-49ce-b1c1-ffd84f2375de" />
+<img width="1551" height="795" alt="Screenshot 2025-12-27 061405" src="https://github.com/user-attachments/assets/aa984c44-4160-4971-92de-28c99f2be9a0" />
 
 
 
