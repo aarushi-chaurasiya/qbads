@@ -1,4 +1,4 @@
-<img width="1493" height="448" alt="Screenshot 2025-12-27 060844" src="https://github.com/user-attachments/assets/7469f913-0a9a-43dd-b00d-247e23f9dfe5" /># QBADS — Quantum–Blockchain Anomaly Detection System
+# QBADS — Quantum–Blockchain Anomaly Detection System
 
 QBADS is a **hybrid research and engineering prototype** that integrates **Quantum Machine Learning (QML)** with **blockchain-based auditability** to detect anomalous financial transactions in a transparent, tamper-resistant manner.
 
